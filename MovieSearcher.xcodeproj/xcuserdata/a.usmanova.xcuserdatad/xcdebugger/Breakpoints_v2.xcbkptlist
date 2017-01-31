@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieSearcher/Services/ServicesOne.swift"
+            timestampString = "507547501.781705"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getMovieInfo(title:callback:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieSearcher.ServicesOne.getMovieInfo (title : Swift.String, callback : (MovieSearcher.MovieSearchArray, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "MovieSearcher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.usmanova/Desktop/moviesearcher1/MovieSearcher/Services/ServicesOne.swift"
+                  timestampString = "507558330.670471"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieSearcher.ServicesOne.(getMovieInfo (title : Swift.String, callback : (MovieSearcher.MovieSearchArray, Swift.Bool) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "MovieSearcher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.usmanova/Desktop/moviesearcher1/MovieSearcher/Services/ServicesOne.swift"
+                  timestampString = "507558330.671867"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieSearcher/Services/ServicesOne.swift"
+            timestampString = "507556954.721646"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getMovieInfo(title:callback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

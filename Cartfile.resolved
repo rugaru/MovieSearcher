@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "4.3.0"
+github "evermeer/EVReflection" "4.1.0"
+github "rs/SDWebImage" "4.0.0"
+github "realm/realm-cocoa" "v2.4.1"
